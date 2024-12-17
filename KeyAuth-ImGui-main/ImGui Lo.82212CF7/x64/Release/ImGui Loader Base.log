@@ -1,0 +1,22 @@
+﻿  ui.cc
+main.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > version" (?version@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in ui.obj; second definition ignored
+main.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > ownerid" (?ownerid@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in ui.obj; second definition ignored
+main.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > url" (?url@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in ui.obj; second definition ignored
+main.obj : warning LNK4006: "class KeyAuth::api KeyAuthApp" (?KeyAuthApp@@3Vapi@KeyAuth@@A) already defined in ui.obj; second definition ignored
+main.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > name" (?name@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in ui.obj; second definition ignored
+main.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > secret" (?secret@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in ui.obj; second definition ignored
+main.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl tm_to_readable_time(struct tm)" (?tm_to_readable_time@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@Utm@@@Z) already defined in ui.obj; second definition ignored
+C:\Users\vanta\OneDrive\Desktop\Wukey shit\KeyAuth-ImGui-main\x64\Release\ImGui Loader base.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Generating code
+  150 of 1854 functions ( 8.1%) were compiled, the rest were copied from previous compilation.
+    87 functions were new in current compilation
+    53 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+* CIL library *(* CIL module *) : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > version" (?version@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > ownerid" (?ownerid@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > url" (?url@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "class KeyAuth::api KeyAuthApp" (?KeyAuthApp@@3Vapi@KeyAuth@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > name" (?name@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > secret" (?secret@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+C:\Users\vanta\OneDrive\Desktop\Wukey shit\KeyAuth-ImGui-main\x64\Release\ImGui Loader base.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  ImGui Loader Base.vcxproj -> C:\Users\vanta\OneDrive\Desktop\Wukey shit\KeyAuth-ImGui-main\x64\Release\ImGui Loader base.exe
